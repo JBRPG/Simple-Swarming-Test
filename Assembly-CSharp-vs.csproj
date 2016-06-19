@@ -48,6 +48,11 @@
   <ItemGroup>
      <Compile Include="Assets\Main Project\Scripts\FlyMoveTowardsPlayer.cs" />
      <Compile Include="Assets\Main Project\Scripts\PlayerMove.cs" />
+     <Compile Include="Assets\Main Project\Scripts\Steer_Arrive.cs" />
+     <Compile Include="Assets\Main Project\Scripts\Steer_Flee.cs" />
+     <Compile Include="Assets\Main Project\Scripts\Steer_Seek.cs" />
+     <Compile Include="Assets\Main Project\Scripts\Steer_Seek_and_Flee.cs" />
+     <Compile Include="Assets\Main Project\Scripts\Steer_Wander.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>

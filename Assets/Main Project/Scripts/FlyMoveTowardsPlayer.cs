@@ -10,9 +10,9 @@ public class FlyMoveTowardsPlayer : MonoBehaviour {
 
 	private Transform flyTSFM;
 	private Rigidbody2D rb2d;
-	private Vector3 prevVelocity;
-	private float speed = 0; // Rough draft until I figure 0ut accelration
-	private float acceleration = 0;
+	//private Vector3 prevVelocity;
+	//private float speed = 0; // Rough draft until I figure 0ut accelration
+	//private float acceleration = 0;
 
 
 	// Use this for initialization
@@ -77,7 +77,7 @@ public class FlyMoveTowardsPlayer : MonoBehaviour {
 		// We need to adjust the velocity by comparing the previous value;
 
 		rb2d.velocity = flyTSFM.up * maxSpeed;  // Rough draft until I figure 0ut accelration
-		prevVelocity = rb2d.velocity;
+		//prevVelocity = rb2d.velocity;
 
 	}
 
