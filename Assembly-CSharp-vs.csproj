@@ -49,7 +49,9 @@
      <Compile Include="Assets\Main Project\Scripts\FlyMoveTowardsPlayer.cs" />
      <Compile Include="Assets\Main Project\Scripts\PlayerMove.cs" />
      <Compile Include="Assets\Main Project\Scripts\Steer_Arrive.cs" />
+     <Compile Include="Assets\Main Project\Scripts\Steer_Evade.cs" />
      <Compile Include="Assets\Main Project\Scripts\Steer_Flee.cs" />
+     <Compile Include="Assets\Main Project\Scripts\Steer_Pursuit.cs" />
      <Compile Include="Assets\Main Project\Scripts\Steer_Seek.cs" />
      <Compile Include="Assets\Main Project\Scripts\Steer_Seek_and_Flee.cs" />
      <Compile Include="Assets\Main Project\Scripts\Steer_Wander.cs" />
