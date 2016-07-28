@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Main Project\Scripts\FlyMoveTowardsPlayer.cs" />
      <Compile Include="Assets\Main Project\Scripts\PlayerMove.cs" />
+     <Compile Include="Assets\Main Project\Scripts\Rotate_object_velocity.cs" />
      <Compile Include="Assets\Main Project\Scripts\Steer_Arrive.cs" />
      <Compile Include="Assets\Main Project\Scripts\Steer_Evade.cs" />
      <Compile Include="Assets\Main Project\Scripts\Steer_Flee.cs" />
